@@ -1,0 +1,10 @@
+.class1{
+    background-image: url('../pics/pic1.png');
+    background-color: rgba(128, 128, 128, 0.5);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    filter: opacity(90%);
+    height: 85vh;
+}
